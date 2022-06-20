@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WBInternW8Part1</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_app">О приложении</string>
+    <string name="accept">Понятно</string>
+    <string name="git_hub_link">https://github.com/pankovkirill</string>
+    <string name="_17_06_2022">Дата создания: 17.06.2022</string>
+    <string name="github">GitHub: </string>
+    <string name="author_name">Имя автора: Кирилл Панков</string>
+</resources>
